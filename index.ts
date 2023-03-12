@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const PORT = 8080;
 
-var servers = [];
+var servers = ["hehehehaw69.ploudos.me"];
 
 keepalive();
 setInterval(() => {
